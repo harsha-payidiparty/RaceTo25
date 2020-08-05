@@ -215,23 +215,3 @@ def raceTo(m):
         else:
             print("Player 2 won!")
     return None
-
-
-#a()
-#b1(0)
-#b1(-5)
-#b1(15)
-#b2(0)
-#b2(-5)
-#b2(15)
-#get_input()
-#c()
-#d()
-#e()
-#get_input_from_player("1")
-#get_input_from_player("2")
-#f()
-#raceTo25()
-#raceTo(25)
-#raceTo(17)
-#raceTo(100)
